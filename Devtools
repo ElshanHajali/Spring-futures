@@ -1,0 +1,6 @@
+Devtools
+Configuration that automatically restarts the server during development.
+Steps ---------------------------------------------------------------------------------------------
+1 -> we need to add “devtools” dependency to “pom.xml” file
+2-> “ ctrl + shift + n “  (this helps us to search anything belong to Intellij Idea) in the opened window, we need to select “action” then type “registry”, in the 1’st option we  need to enable “compile.automake.allow.parallel” option.
+3 -> File -> settings -> Build, Execution, Deployment -> Compiler -> Build project automatically.
